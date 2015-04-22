@@ -25,5 +25,5 @@ Of course, you can always clone this repository and [build the extension][2] fro
 * Initial version
 * Throw errors instead of alerting, confirming, or prompting.
 
-  [1] https://keithws.net/curb-your-alerts/curb-your-alerts.safariextz
-  [2] https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html#//apple_ref/doc/uid/TP40009977-CH2-SW1
+  [1]: https://keithws.net/curb-your-alerts/curb-your-alerts.safariextz
+  [2]: https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html#//apple_ref/doc/uid/TP40009977-CH2-SW1
