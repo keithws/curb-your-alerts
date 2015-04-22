@@ -20,7 +20,11 @@ Of course, you can always clone this repository and [build the extension][2] fro
 
 ## Change Log
 
-*April 22, 2015*
+*1.1 — April 22, 2015*
+
+* Do **not** wait for DOM ready.
+
+*1.0 — April 22, 2015*
 
 * Initial version
 * Throw errors instead of alerting, confirming, or prompting.
