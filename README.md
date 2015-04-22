@@ -1,4 +1,4 @@
-# Curb Your Alerts
+# Curb Your Alerts – Safari Extension
 
 Prevent JavaScript dialog boxes from popping up on websites.
 
@@ -8,9 +8,9 @@ Because, JavaScript dialog boxes are not usually used by modern websites. Howeve
 
 ## Install
 
-Download the Curb Your Alerts Safari extension and open the file to install.
+Download the [Curb Your Alerts][1] Safari extension and open the file to install.
 
-Of course, you can always clone this repository and build the extension from source too.
+Of course, you can always clone this repository and [build the extension][2] from source too.
 
 ## Todo
 
@@ -24,3 +24,6 @@ Of course, you can always clone this repository and build the extension from sou
 
 * Initial version
 * Throw errors instead of alerting, confirming, or prompting.
+
+  [1] https://keithws.net/curb-your-alerts/curb-your-alerts.safariextz
+  [2] https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html#//apple_ref/doc/uid/TP40009977-CH2-SW1
