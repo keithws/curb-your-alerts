@@ -1,10 +1,10 @@
-# Curb Your Alerts – Safari Extension
+# Curb Your Alerts
 
-Prevent JavaScript dialog boxes from popping up on websites.
+This extension for Safari will prevent JavaScript dialog boxes from popping up.
 
 ## Why
 
-Because, JavaScript dialog boxes are not usually used by modern websites. However, JavaScript dialog boxes are used by malicious websites and web developers who don't know about `console.log` nor `debugger`.
+JavaScript dialog boxes are not usually used by modern websites. However, JavaScript dialog boxes are used by malicious websites and web developers who don't know about `console.log` nor `debugger`.
 
 ## Install
 
