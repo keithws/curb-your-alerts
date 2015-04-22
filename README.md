@@ -8,7 +8,7 @@ JavaScript dialog boxes are not usually used by modern websites. However, JavaSc
 
 ## Install
 
-Download the [Curb Your Alerts][1] Safari extension and open the file to install.
+Download the [curb-your-alerts.safariextz][1] file and open it. Safari will ask you if you'd like to install the extension.
 
 Of course, you can always clone this repository and [build the extension][2] from source too.
 
